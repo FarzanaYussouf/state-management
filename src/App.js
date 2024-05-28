@@ -4,6 +4,7 @@ import Form from './Forms/Form';
 import Label from './Label/Label';
 import Bulb from './Pages/Bulb';
 import Form2 from './Pages/Form2';
+import Quiz from './Pages/Quiz';
 
 function App() {
   return (
@@ -11,7 +12,8 @@ function App() {
    {/* <Bulb/> */}
    {/* <Form/>
    <Label/> */}
-   <Form2/>
+   {/* <Form2/> */}
+   <Quiz/>
    </>
   );
 }
