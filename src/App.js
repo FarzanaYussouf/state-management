@@ -5,6 +5,9 @@ import Label from './Label/Label';
 import Bulb from './Pages/Bulb';
 import Form2 from './Pages/Form2';
 import Quiz from './Pages/Quiz';
+import Shopping from './Pages/Shopping';
+
+
 
 function App() {
   return (
@@ -13,7 +16,8 @@ function App() {
    {/* <Form/>
    <Label/> */}
    {/* <Form2/> */}
-   <Quiz/>
+   {/* <Quiz/> */}
+   <Shopping/>
    </>
   );
 }
