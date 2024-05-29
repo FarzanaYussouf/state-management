@@ -15,6 +15,7 @@ const Shopping = () => {
 
   return (
     <div className='container mt-5 text-center'>
+        <h1 className='mb-4'>My Shopping Cart</h1>
         <div className='row border border-3 px-2 py-3 bg-light first-child'>
             <div className='col-3'>
                 <h6>Product</h6>
