@@ -18,8 +18,8 @@ function App() {
    <Label/> */}
    {/* <Form2/> */}
    {/* <Quiz/> */}
-   {/* <Shopping/> */}
-   <Quiz2/>
+   <Shopping/>
+   {/* <Quiz2/> */}
    </>
   );
 }

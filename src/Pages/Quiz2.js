@@ -30,9 +30,9 @@ const Quiz2 = () => {
             
 
             <div>
-            <button  style={{backgroundColor:backgroundcolor}}>Answer</button>
-            <p className='mt-2'>green is correct answer <br />
-            red is wrong answer</p>
+            <button className='text-white' style={{backgroundColor:backgroundcolor}}>Answer</button>
+            <p className='mt-2'>green for correct answer <br />
+            red for wrong answer</p>
             </div>
             </div>
             </div>
